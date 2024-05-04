@@ -1,0 +1,16 @@
+{
+  "name": "tistory-tech",
+  "version": "1.0.0",
+  "description": "티스토리 기술블로그",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node readmeUpdate.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}
