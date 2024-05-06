@@ -5,4 +5,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://asasia.tistory.com/57>[JAVA] Stream (1)</a></br><a href=https://asasia.tistory.com/56>[JAVA] Lambda Expression</a></br><a href=https://asasia.tistory.com/55>[JAVA] HashMap</a></br><a href=https://asasia.tistory.com/54>[JAVA] Map</a></br><a href=https://asasia.tistory.com/53>[JAVA] try-with-resources</a></br>
+<a href=https://asasia.tistory.com/58>[JAVA] Stream (2) - forEach, Method Reference</a></br><a href=https://asasia.tistory.com/57>[JAVA] Stream (1) - Stream</a></br><a href=https://asasia.tistory.com/56>[JAVA] Lambda Expression</a></br><a href=https://asasia.tistory.com/55>[JAVA] HashMap</a></br><a href=https://asasia.tistory.com/54>[JAVA] Map</a></br>
