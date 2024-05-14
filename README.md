@@ -5,4 +5,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://asasia.tistory.com/69>[JAVA] 참조자료형 (3) static</a></br><a href=https://asasia.tistory.com/68>[JAVA] 참조자료형 (2) 메서드 오버로딩, 메서드에 값 넘기기</a></br><a href=https://asasia.tistory.com/67>[JAVA] 참조 자료형 (1) 참조 자료형, 생성자, this</a></br><a href=https://asasia.tistory.com/66>[JAVA] 접근 제어자</a></br><a href=https://asasia.tistory.com/65>[JAVA] 패키지</a></br>
+<a href=https://asasia.tistory.com/70>Round(반올림 함수), Ceil(올림 함수), Floor(내림 함수)</a></br><a href=https://asasia.tistory.com/69>[JAVA] 참조자료형 (3) static</a></br><a href=https://asasia.tistory.com/68>[JAVA] 참조자료형 (2) 메서드 오버로딩, 메서드에 값 넘기기</a></br><a href=https://asasia.tistory.com/67>[JAVA] 참조 자료형 (1) 참조 자료형, 생성자, this</a></br><a href=https://asasia.tistory.com/66>[JAVA] 접근 제어자</a></br>
