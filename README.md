@@ -5,4 +5,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://asasia.tistory.com/72>[JAVA] List (1) List, Stack</a></br><a href=https://asasia.tistory.com/71>[JAVA] Collection</a></br><a href=https://asasia.tistory.com/70>Round(반올림 함수), Ceil(올림 함수), Floor(내림 함수)</a></br><a href=https://asasia.tistory.com/69>[JAVA] 참조자료형 (3) static</a></br><a href=https://asasia.tistory.com/68>[JAVA] 참조자료형 (2) 메서드 오버로딩, 메서드에 값 넘기기</a></br>
+<a href=https://asasia.tistory.com/73>이진트리(BT, Binary Tree)와 이진탐색트리(BST, Binary Search Tree)</a></br><a href=https://asasia.tistory.com/72>[JAVA] List (1) List, Stack</a></br><a href=https://asasia.tistory.com/71>[JAVA] Collection</a></br><a href=https://asasia.tistory.com/70>Round(반올림 함수), Ceil(올림 함수), Floor(내림 함수)</a></br><a href=https://asasia.tistory.com/69>[JAVA] 참조자료형 (3) static</a></br>
