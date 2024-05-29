@@ -5,4 +5,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://asasia.tistory.com/79>[JAVA] 예외 (2) 두 개 이상의 catch</a></br><a href=https://asasia.tistory.com/78>연결된 컴포넌트(Connected component)</a></br><a href=https://asasia.tistory.com/77>맵과 방향벡터</a></br><a href=https://asasia.tistory.com/76>인접행렬과 인접리스트의 차이</a></br><a href=https://asasia.tistory.com/75>0번부터 방문 하지 않은 노드를 찾고 연결된 노드를 이어서 방문, 정점을 방문하고 다시 방문하지 않게 하는 코드(인접 리스트, visited배열)</a></br>
+<a href=https://asasia.tistory.com/80>[JAVA] List (2) ArrayList와 생성자</a></br><a href=https://asasia.tistory.com/79>[JAVA] 예외 (2) 두 개 이상의 catch</a></br><a href=https://asasia.tistory.com/78>연결된 컴포넌트(Connected component)</a></br><a href=https://asasia.tistory.com/77>맵과 방향벡터</a></br><a href=https://asasia.tistory.com/76>인접행렬과 인접리스트의 차이</a></br>
