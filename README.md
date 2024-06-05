@@ -5,4 +5,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://asasia.tistory.com/83>데이터 마스킹 - DTO</a></br><a href=https://asasia.tistory.com/82>[JAVA] List (4) ArrayList 데이터 확인</a></br><a href=https://asasia.tistory.com/81>[JAVA] List (3) ArrayList 데이터 등록</a></br><a href=https://asasia.tistory.com/80>[JAVA] List (2) ArrayList와 생성자</a></br><a href=https://asasia.tistory.com/79>[JAVA] 예외 (2) 두 개 이상의 catch</a></br>
+<a href=https://asasia.tistory.com/84>[JAVA] List (5) ArrayList 데이터 삭제 및 변경</a></br><a href=https://asasia.tistory.com/83>데이터 마스킹 - DTO</a></br><a href=https://asasia.tistory.com/82>[JAVA] List (4) ArrayList 데이터 확인</a></br><a href=https://asasia.tistory.com/81>[JAVA] List (3) ArrayList 데이터 등록</a></br><a href=https://asasia.tistory.com/80>[JAVA] List (2) ArrayList와 생성자</a></br>
