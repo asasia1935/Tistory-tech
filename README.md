@@ -5,4 +5,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://asasia.tistory.com/96>복사 생성자</a></br><a href=https://asasia.tistory.com/95>Typedef</a></br><a href=https://asasia.tistory.com/94>네트워크 계층</a></br><a href=https://asasia.tistory.com/93>[프로그래머스 level 2] 삼각달팽이 - 68645</a></br><a href=https://asasia.tistory.com/92>[JAVA] String.toCharArray()</a></br>
+<a href=https://asasia.tistory.com/97>시스템 프로그래밍의 이해, 컴퓨터 하드웨어 구성, CPU에 대한 이해</a></br><a href=https://asasia.tistory.com/96>복사 생성자</a></br><a href=https://asasia.tistory.com/95>Typedef</a></br><a href=https://asasia.tistory.com/94>네트워크 계층</a></br><a href=https://asasia.tistory.com/93>[프로그래머스 level 2] 삼각달팽이 - 68645</a></br>
